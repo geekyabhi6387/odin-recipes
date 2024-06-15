@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #181A1B;
+    height: 100%;
+    font-family: poppins, quicksand, Do Hyeon;
+}
+
+#container {
+    width: 95%;
+    margin: auto;
+}
+ 
+#header {
+    color: white;
+    text-align: center;
+    background-color: hsl(212, 44, 32);
+}
+
+.list {
+    color: white;
+}
+
+.link {
+    color: #3391FF;
+}
+
